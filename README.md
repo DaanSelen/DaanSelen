@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project you'd like.
 - 📫 How to reach me
 Discord: Celdrith#9679
-E-mail: Daanselen@hotmail.com
+E-mail: DSelen@nerthus.nl
