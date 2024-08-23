@@ -7,7 +7,6 @@
 - 📫 How to reach me
 E-mail: DSelen@nerthus.nl
 
-# GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
