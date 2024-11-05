@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @DaanSelen
 - 👀 I’m interested in IT in general, but more commonly the infrastructure aspect. I also like coding beside that.
+- 😶‍🌫️ Probably commit either on Github or on private Git applications.
 - 🌱 I’m currently studying a Bachelor in Information Communication Technology (ICT).
 - 💞️ I’m looking to collaborate on any project you'd like.
 - 📫 How to reach me
