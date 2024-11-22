@@ -1,11 +1,9 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&repeat=true&random=false&width=600&lines="👋+Hi,+I’m+@DaanSelen+.+.+.;"I+like+creating+things+.+.+.";"Languages:+Python🐍,+Bash$,+Go🐀,+PowerShell>_+.+.+.";)](https://git.io/typing-svg)
-
-- 👋 Hi, I’m @DaanSelen
-- 👀 I’m interested in IT in general, but more commonly the infrastructure aspect. I also like coding beside that.
-- 😶‍🌫️ Probably commit either on Github or on private Git applications.
-- 🌱 I’m currently studying a Bachelor in Information Communication Technology (ICT).
-- 💞️ I’m looking to collaborate on any project you'd like.
-- 📫 How to reach me
+- Hi, I’m @DaanSelen
+- I’m interested in IT in general, but more commonly the infrastructure aspect. I also like coding beside that.
+- Probably commit either on Github or on private Git applications.
+- I’m currently studying a Bachelor in Information Communication Technology (ICT).
+- I’m looking to collaborate on any project you'd like.
+- How to reach me
 E-mail: DSelen@nerthus.nl
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
