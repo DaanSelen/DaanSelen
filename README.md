@@ -1,7 +1,7 @@
 - Hi, I’m @DaanSelen and I like (F)OSS!
 - I’m interested in IT in general, but more commonly the infrastructure aspect. I also like coding beside that.
-- Probably commit either on Github or on private Git applications.
-- I’m currently studying a Bachelor in Information Communication Technology (ICT).
+- Probably committing either on Github or on private Git applications.
+- I’m a graduated Bachelor in Information Communication Technology (ICT) specicially in Infrastructure and Cybersecurity.
 - I’m looking to collaborate on any project you'd like.
 - How to reach me
 E-mail: DSelen@nerthus.nl
