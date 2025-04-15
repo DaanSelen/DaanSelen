@@ -3,7 +3,7 @@
 - Probably committing either on Github or on private Git applications.
 - I’m a graduated Bachelor of Science (BSc) in Information Communication Technology (ICT) specicially in Infrastructure and Cybersecurity with a minor in "AI For Society".
 - I’m looking to collaborate on any project you'd like.
-- How to reach me
+- How to reach me?
 E-mail: DSelen@nerthus.nl
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
