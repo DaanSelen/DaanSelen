@@ -6,7 +6,8 @@
 - How to reach me?
 E-mail: DSelen@nerthus.nl
 
-Programming Languages:<br>
+My Tech-Stack:<br>
+
 [![My Programming Skills](https://skillicons.dev/icons?i=ansible,bash,go,md,powershell,python)](https://skillicons.dev)<br>
 [![My Version Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode)](https://skillicons.dev)<br>
 [![My Operating Systems](https://skillicons.dev/icons?i=linux,debian,kali,mint,ubuntu,windows)](https://skillicons.dev)<br>
