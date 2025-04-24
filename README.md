@@ -15,13 +15,12 @@ My Tech-Stack:<br>
 [![My Applications](https://skillicons.dev/icons?i=docker,kubernetes,mysql,nginx,postgres,postman,sqlite,vim,wordpress)](https://skillicons.dev)<br>
 [![My Hardware Knowledge](https://skillicons.dev/icons?i=cloudflare,discord)](https://skillicons.dev)<br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
       <td>
         <img
           src="https://github-readme-stats.vercel.app/api?username=DaanSelen&show_icons=true&locale=en&theme=tokyonight&count_private=false"
-          align=left
           alt="GitHub Stats"
         />
       </td>
