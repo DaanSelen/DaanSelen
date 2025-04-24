@@ -15,6 +15,8 @@ My Tech-Stack:<br>
 [![My Applications](https://skillicons.dev/icons?i=docker,kubernetes,mysql,nginx,postgres,postman,sqlite,vim,wordpress)](https://skillicons.dev)<br>
 [![My Hardware Knowledge](https://skillicons.dev/icons?i=cloudflare,discord)](https://skillicons.dev)<br>
 
+
+
 <table align="left" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
