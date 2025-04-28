@@ -23,7 +23,13 @@ My Tech-Stack:<br>
       <td>
         <img
           src="https://github-readme-stats.vercel.app/api?username=DaanSelen&show_icons=true&locale=en&theme=tokyonight&count_private=false"
-          alt="GitHub Stats"
+          alt="GitHub Statistics"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com/?user=DaanSelen&theme=tokyonight"
+          alt="GitHub Statistics"
         />
       </td>
     </tr>
