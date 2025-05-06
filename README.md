@@ -8,12 +8,12 @@ E-mail: DSelen@nerthus.nl
 
 My Tech-Stack:<br>
 
-[![My Programming Skills](https://skillicons.dev/icons?i=ansible,bash,go,md,powershell,python)](https://skillicons.dev)<br>
-[![My Version Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode)](https://skillicons.dev)<br>
-[![My Operating Systems](https://skillicons.dev/icons?i=linux,debian,kali,mint,ubuntu,windows)](https://skillicons.dev)<br>
-[![My Hardware Knowledge](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)<br>
-[![My Applications](https://skillicons.dev/icons?i=docker,kubernetes,mysql,nginx,postgres,postman,sqlite,vim,wordpress)](https://skillicons.dev)<br>
-[![My Hardware Knowledge](https://skillicons.dev/icons?i=cloudflare,discord)](https://skillicons.dev)<br>
+[![Row0](https://skillicons.dev/icons?i=ansible,bash,go,md,powershell)](https://skillicons.dev)<br>
+[![Row1](https://skillicons.dev/icons?i=python,git,github,githubactions,vscode)](https://skillicons.dev)<br>
+[![Row2](https://skillicons.dev/icons?i=linux,debian,kali,mint,ubuntu)](https://skillicons.dev)<br>
+[![Row3](https://skillicons.dev/icons?i=windows,arduino,raspberrypi,docker,kubernetes,mysql)](https://skillicons.dev)<br>
+[![Row4](https://skillicons.dev/icons?i=nginx,postgres,postman,sqlite,vim,wordpress)](https://skillicons.dev)<br>
+[![Row5](https://skillicons.dev/icons?i=cloudflare,discord)](https://skillicons.dev)<br>
 
 
 
