@@ -1,7 +1,7 @@
 - Hi, I’m @DaanSelen and I like (F)OSS!
 - I’m interested in IT in general, but more commonly the infrastructure aspect. I also like coding beside that.
 - Probably committing either on Github or on private Git applications.
-- I’m a graduated Bachelor of Science (BSc) in Information Communication Technology (ICT) specicially in Infrastructure and Cybersecurity with a minor in "AI For Society".
+- I’m a graduated Bachelor of Science (BSc) in Information Communication Technology (ICT) specifically in Infrastructure and Cybersecurity with a minor in "AI For Society".
 - I’m looking to collaborate on any project you'd like.
 - How to reach me?
 E-mail: DSelen@nerthus.nl
