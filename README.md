@@ -8,14 +8,9 @@ E-mail: DSelen@nerthus.nl
 
 My Tech-Stack:<br>
 
-[![Row0](https://skillicons.dev/icons?i=ansible,bash,go,md,powershell)](https://skillicons.dev)<br>
-[![Row1](https://skillicons.dev/icons?i=python,git,github,githubactions,vscode)](https://skillicons.dev)<br>
-[![Row2](https://skillicons.dev/icons?i=linux,debian,kali,mint,ubuntu)](https://skillicons.dev)<br>
-[![Row3](https://skillicons.dev/icons?i=windows,arduino,raspberrypi,docker,kubernetes)](https://skillicons.dev)<br>
-[![Row4](https://skillicons.dev/icons?i=mysql,nginx,postgres,sqlite,wordpress)](https://skillicons.dev)<br>
-[![Row5](https://skillicons.dev/icons?i=cloudflare,discord,vim,postman)](https://skillicons.dev)<br>
-
-
+[![Row0](https://skillicons.dev/icons?i=ansible,bash,go,md,powershell,python,git,github,githubactions,vscode)](https://skillicons.dev)<br>
+[![Row1](https://skillicons.dev/icons?i=linux,debian,kali,mint,ubuntu,windows,arduino,raspberrypi,docker,kubernetes)](https://skillicons.dev)<br>
+[![Row2](https://skillicons.dev/icons?i=mysql,nginx,postgres,sqlite,wordpress,cloudflare,discord,vim,postman)](https://skillicons.dev)<br>
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
   <thead>
