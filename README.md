@@ -3,8 +3,8 @@
 - Probably committing either on Github or on private Git applications.
 - I’m a graduated Bachelor of Science (BSc) in Information Communication Technology (ICT) specifically in Infrastructure and Cybersecurity with a minor in "AI For Society".
 - I’m looking to collaborate on any project you'd like.
-- How to reach me? Email: mailto:dselen@nerthus.nl
-- If you want to support me? [PayPal Donations](https://paypal.me/daanselen)
+- How to reach me? Email: [dselen@nerthus.nl](mailto:dselen@nerthus.nl).
+- If you want to support me? [PayPal Donations](https://paypal.me/daanselen).
 
 My Tech-Stack:<br>
 
